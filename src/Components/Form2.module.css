@@ -1,0 +1,39 @@
+.input {
+  border: none;
+  border-color: transparent;
+}
+
+.label {
+  margin-right: 70px;
+}
+
+.span {
+  margin-right: 40px;
+}
+
+.span2 {
+  margin-right: 80px;
+}
+
+.span3 {
+  margin-right: 85px;
+}
+
+.span4 {
+  margin-right: 83px;
+}
+
+.span5 {
+  margin-right: 91px;
+}
+
+.span6 {
+  margin-right: 105px;
+}
+
+.submit {
+  padding: 12px 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 15px;
+}

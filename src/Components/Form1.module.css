@@ -1,0 +1,28 @@
+.total {
+  font-weight: bolder;
+  text-align: left;
+  padding-left: 60px;
+  padding-top: 10px;
+}
+
+.error {
+  color: red;
+  font-size: 15px;
+}
+
+.display {
+  width: auto;
+  height: 50px;
+  font-size: 20px;
+  margin-top: 5px;
+  display: inline-block;
+  text-align: right;
+  padding-top: 10px;
+}
+
+.submit {
+  padding: 16px 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 15px;
+}
